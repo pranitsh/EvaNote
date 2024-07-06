@@ -1,12 +1,12 @@
 [submodule "packages/BrowserFS"]
 	path = packages/BrowserFS
-	url = git@github.com:sanchezcarlosjr/BrowserFS.git
+	url = https://github.com/sanchezcarlosjr/BrowserFS.git
 [submodule "packages/browsefs-core"]
 	path = packages/browsefs-core
-	url = git@github.com:sanchezcarlosjr/browserfs-core.git
+	url = https://github.com/sanchezcarlosjr/browserfs-core.git
 [submodule "packages/BlockNote"]
 	path = packages/BlockNote
-	url = git@github.com:sanchezcarlosjr/BlockNote.git
+	url = https://github.com/sanchezcarlosjr/BlockNote.git
 [submodule "packages/tiptap-math-extension"]
 	path = packages/tiptap-math-extension
-	url = git@github.com:sanchezcarlosjr/tiptap-math-extension.git
+	url = https://github.com/sanchezcarlosjr/tiptap-math-extension.git
